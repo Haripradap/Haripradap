@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Hari Pradap</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Enthusiast;Hackathon+Lover;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;MERN+Enthusiast;Hackathon+Lover;Open+to+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
