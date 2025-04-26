@@ -12,7 +12,7 @@
 ## 🚀 Tech Stack
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,git,github,tailwind,vercel,postman" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,git,github,tailwind,vercel,postman" width="80%" />
 </p>
 
 ---
@@ -47,12 +47,9 @@
   </a>
 </p>
 
-
 ---
 
 ## 🧠 Fun Fact
+
 > I turn ☕ coffee into clean code and bugs into features. 🚀  
 > "Consistency beats motivation."
-
----
-
